@@ -1,2 +1,2 @@
 # Metis-Project3-Ridesharing-analysis
-Bussiness Fundamentals
+The goal for this project is to help Lyft increase market share - Uber has 68% market share while Lyft has 32% nationwide. Scope and design the project, brainstorm the possible reasons which cause the difference. My focus is on demand and price, and my analysis is mainly based on total revenue of “pick up location” and “time of the day”. I analyzed & visualized the price and rides count relationships of Uber and Lyft to get some insights by using Excel. Then, I use Tableau for further analysis by building an interactive dashboard to communicate my results. 
