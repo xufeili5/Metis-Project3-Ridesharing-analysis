@@ -30,9 +30,9 @@ Tableau for further analysis with an interactive dashboard
 
 ## Communication
 “Beacon Hill”(16:00 to midnight), “Haymarket Square”(14:00, 17:00, 19:00, 21:00), “South Station”(14:00, 18:00, 22:00), “West End”(9:00-12:00, 22:00) have potential to gain more revenue. However, “average final price” doesn’t have a big difference between Uber & Lyft, the “rides counts” have a big impact. So, the best strategy may be to encourage drivers to work more in those areas and time with more demand, and then attract more drivers to join in those locations. 
-Interactive dashboard screen recording - https://drive.google.com/file/d/1KkeB188PaN3Yzwp5b3LPjBmOV3p2mFyk/view 
-Blog Post link - https://xufeili5.medium.com/lyft-vs-uber-how-to-help-lyft-increase-market-share-1e3fa60118b7 
-Google sheet link - https://docs.google.com/spreadsheets/d/1yL2So4TYmAMBu5v5PJ3PtZmkk-W2G-vswEiMD8qqzto/edit?usp=sharing 
-Tableau link - https://public.tableau.com/profile/xufei.li#!/vizhome/MetisProject3-RidesharingAnalysis/Dashboard1
-Google slide - https://github.com/xufeili5/Metis-Project3-Ridesharing-analysis/blob/main/Project3-Ride%20Sharing%20Analysis(Google%20slide).pdf
+* Interactive dashboard screen recording - https://drive.google.com/file/d/1KkeB188PaN3Yzwp5b3LPjBmOV3p2mFyk/view 
+* Blog Post link - https://xufeili5.medium.com/lyft-vs-uber-how-to-help-lyft-increase-market-share-1e3fa60118b7 
+* Google sheet link - https://docs.google.com/spreadsheets/d/1yL2So4TYmAMBu5v5PJ3PtZmkk-W2G-vswEiMD8qqzto/edit?usp=sharing 
+* Tableau link - https://public.tableau.com/profile/xufei.li#!/vizhome/MetisProject3-RidesharingAnalysis/Dashboard1
+* Google slide - https://github.com/xufeili5/Metis-Project3-Ridesharing-analysis/blob/main/Project3-Ride%20Sharing%20Analysis(Google%20slide).pdf
 
